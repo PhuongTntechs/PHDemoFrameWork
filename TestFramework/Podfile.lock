@@ -1,0 +1,16 @@
+PODS:
+  - PHDemoFrameWork (1.0.0)
+
+DEPENDENCIES:
+  - PHDemoFrameWork (from `../PHDemoFrameWork/`)
+
+EXTERNAL SOURCES:
+  PHDemoFrameWork:
+    :path: "../PHDemoFrameWork/"
+
+SPEC CHECKSUMS:
+  PHDemoFrameWork: 4183ac191b76874ceb6fdb8ae97f2e71f9b978fe
+
+PODFILE CHECKSUM: 8c3f14b69cf4a86e80a5bca037729f1b3c8233c9
+
+COCOAPODS: 1.5.0
